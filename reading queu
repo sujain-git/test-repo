@@ -1,0 +1,90 @@
+
+Reading Queue
+Last edited: 1/10
+ML : Systems
+Learning both weights and connections for efficient neural networks
+Exploring sparcity in recurrent neural networks
+Slide algorithm for training faster on CPUs than GPUs
+Benchmarking and Analyzing DNN Training
+Ray: A Distributed Framework for Emerging AI Applications
+Performance Analysis and Characterization ofTraining Deep Learning Models on Mobile Devices
+Google Vizier : A service for black box optimization
+Balancing Efﬁciency and Fairness in Heterogeneous GPU Clusters for Deep Learning
+Etc.
+Performance, Design, and Autotuning of Batched GEMM for GPUs
+Distributed Systems: Data Analytics
+Monarch: Google's Planet-Scale In-Memory Time Series Database (https://lnkd.in/gbqa7HNa)
+Gorilla: A Fast, Scalable, In-Memory Time Series Database (https://lnkd.in/gd_nUJbu)
+Scuba: Diving into Data at Facebook (https://lnkd.in/gfBrJcge)
+The Unified Logging Infrastructure for Data Analytics at Twitter (https://lnkd.in/gwhNUMnF)
+Cubrick: Indexing Millions of Records per Second for Interactive Analytics (https://lnkd.in/g-n9GUMD)
+Shark: SQL and Rich Analytics at Scale (https://lnkd.in/gqXHq5BG)
+Realtime Data Processing at Facebook (https://lnkd.in/gQdMN4kP)
+Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (https://pdos.csail.mit.edu/6.824/papers/zaharia-spark.pdf)
+Distributed Systems: Stream Processing
+MillWheel: Fault-Tolerant Stream Processing at Internet Scale (https://lnkd.in/gC7VjCfG)
+The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing (https://lnkd.in/g-PyJUPa)
+Apache Flink™: Stream and Batch Processing in a Single Engine (https://lnkd.in/gpzRA6v3)
+Drizzle: Fast and Adaptable Stream Processing at Scale (https://lnkd.in/g9Hbnvp7)
+Kafka, Samza and the Unix Philosophy of Distributed Data (https://lnkd.in/grtHkFWN)
+Discretized Streams: Fault-Tolerant Streaming Computation at Scale (https://lnkd.in/gbzc3_Ke)
+Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark (https://lnkd.in/gnQQP2UY)
+Noria: dynamic, partially-stateful data-flow for high-performance web applications (https://lnkd.in/gYtpef34)
+Distributed Systems: Consensus
+Paxos Made Simple (https://lnkd.in/gk6nxyVj)
+Implementing Fault-Tolerant Services Using the State Machine (https://lnkd.in/gPwNde-i)
+The Chubby lock service for loosely-coupled distributed systems (https://lnkd.in/gFXKTrXR)
+ZooKeeper: Wait-free coordination for Internet-scale systems (https://lnkd.in/gWTYBxQN)
+In Search of an Understandable Consensus Algorithm (https://lnkd.in/gqrKhvsK)
+Virtual Consensus in Delos (https://lnkd.in/g5bitkdM)
+Distributed Systems: Graph Processing
+Pregel: A System for Large-Scale Graph Processing (https://lnkd.in/ggpew7yq)
+PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs (https://lnkd.in/g6f9Mjzk)
+GraphX: Graph Processing in a Distributed Dataflow Framework (https://lnkd.in/gixUZP46)
+Gemini: A Computation-Centric Distributed Graph Processing System (https://lnkd.in/gCs2R5EJ)
+TAO: Facebook’s Distributed Data Store for the Social Graph (https://lnkd.in/gfesm_Hn)
+Distributed Systems: Cluster Management/Scheduling
+Large-scale cluster management at Google with Borg (https://lnkd.in/gT7bG2SF)
+Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing (https://lnkd.in/gEEdRmcD)
+Apache Hadoop YARN: Yet Another Resource Negotiator (https://lnkd.in/g9SVx_Ft)
+Twine: A Unified Cluster Management System for Shared Infrastructure (https://lnkd.in/gbnuqutm)
+Distributed Systems: Storage Systems
+Haystack (https://lnkd.in/gSZYcmmB)
+f4: Facebook’s Warm BLOB Storage System (https://lnkd.in/gMEfTpAh)
+The Hadoop Distributed File System (https://lnkd.in/gSUqafDg)
+The Google File System (https://lnkd.in/giUResea)
+Facebook's Tectonic Filesystem: Efficiency from Exascale (https://lnkd.in/geg7-ub9)
+Pelican: A Building Block for Exascale Cold Data Storage (https://lnkd.in/gSse26YK)
+CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data (https://lnkd.in/gUbnK4rH)
+RADOS: a scalable, reliable storage service for petabyte-scale storage (https://lnkd.in/gKwbmzTx)
+Megastore: Providing Scalable, Highly Available Storage for Interactive Services (https://lnkd.in/gT7mSDQN)
+The Design and Implementation of a Log-Structured File System (https://lnkd.in/gVuka_Ym)
+The RAMCloud Storage System (https://lnkd.in/gC3SQccF)
+Distributed Systems: Peer to Peer Systems
+Compilation and Runtimes
+HeteroCL: A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing
+Surveys
+A survey of distributed machine learning
+A survey of techniques for optimizing deep learning on GPUs
+In memory DB
+Scaling Memcache at Facebook memcache-fb.pdf (mit.edu)
+"Read"
+CHET: An Optimizing Compiler for Fully-Homomorphic Neural-Network Inferencing
+TASO: Optimizing Deep Learning Computation withAutomatic Generation of Graph Substitutions
+Tiramisu: A Polyhedral Compiler for Expressing Fast and Portable Code
+EVA: An Encrypted Vector Arithmetic Language and Compiler for Efficient Homomorphic Computation
+A Unified Backend for Targeting FPGAs from DSLs
+Accelerator Level Parallelism
+Machine Learning at Facebook : Understanding Inference at the Edge
+The Next 700 Accelerated Layers: From Mathematical Expressions of Network Computation Graphs to Accelerated GPU Kernels, Automatically
+Software Testing
+Project Infer
+DeepBugs
+Efficient and Scalable Thread-Safety Violation Detection —- Finding thousands of concurrency bugs during testing
+Abstraction and mining of traces to explain concurrency bugs
+Efficient Scalable Thread-Safety-Violation Detection
+Project Coyote
+ML : Everything Else
+LIME
+Machine Learning Testing:Survey, Landscapes and Horizons
+Multiplying Matrices Without Multiplying
